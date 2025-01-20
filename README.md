@@ -1,2 +1,2 @@
 # AI-Aristotle-PINNs
-PINNs code for AI_Aristootle paper
+PINNs code for AI_Aristotle paper
